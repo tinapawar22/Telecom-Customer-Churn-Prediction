@@ -18,11 +18,8 @@ Months are encoded as 6 (June) to 9 (September).
 
 2. Data Preparation
 Feature Engineering: Created derived features (e.g., recharge ratio, average usage).
-
 High-Value Customer Filtering: Top 30% customers by average recharge in months 6 & 7.
-
 Churn Tagging: Customers with zero usage (calls & data) in month 9 were tagged as churners.
-
 Dimensionality Reduction: Used PCA to handle high-dimensional feature space.
 
 
