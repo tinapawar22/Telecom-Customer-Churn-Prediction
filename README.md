@@ -46,7 +46,8 @@ Trained a separate Logistic Regression model without PCA to identify key feature
 
 
 
-Key Outcomes
+
+--Key Outcomes
 Achieved significant improvement in identifying churners using recall-focused metrics.
 
 Identified top predictors such as drop in recharge amount, data usage, and outgoing call minutes.
@@ -55,7 +56,7 @@ Enabled actionable insights for customer retention strategies.
 
 
  
-Tools & Technologies:
+--Tools & Technologies:
 Python, Pandas, NumPy, Matplotlib, Seaborn
 
 Scikit-learn for modeling, PCA, SMOTE, and evaluation
