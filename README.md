@@ -33,12 +33,11 @@ Applied SMOTE (Synthetic Minority Oversampling Technique) to balance the classes
 Built and evaluated multiple classification models:
 Logistic Regression
 Random Forest
-
 Evaluated using metrics like Recall, Precision, F1-Score, and ROC-AUC to prioritize catching churners.
 
 
 
-5. Interpretability
+6. Interpretability
 Trained a separate Logistic Regression model without PCA to identify key features influencing churn.
 
 
